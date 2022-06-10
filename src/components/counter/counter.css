@@ -1,0 +1,15 @@
+.counter_button{
+    border: 1px solid red;
+    margin: 1rem 5rem;
+    background: hwb(352 2% 3% / 0.8);
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+    max-width: min-content;
+    
+}
+
+.counter_button:hover{
+    background: royalblue;
+    transition: all 2s ease;
+    cursor: pointer;
+}

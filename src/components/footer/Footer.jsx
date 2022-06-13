@@ -1,11 +1,14 @@
+
 import React from 'react'
 import './footer.css'
 
 const Footer = () => {
   return (
-    <div className='footer'>
-        <h4>Created with Love by @WaweruMwangi</h4>
-    </div>
+    <footer className='footer'>
+        <p>Created with Love by @WaweruMwangi Copyright &copy; 2022</p>
+        <p></p>
+
+    </footer>
   )
 }
 
